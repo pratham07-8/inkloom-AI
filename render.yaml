@@ -24,3 +24,4 @@ services:
         value: dummy_service
       - key: HUGGINGFACE_API_KEY
         sync: false
+

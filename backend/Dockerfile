@@ -10,3 +10,4 @@ COPY . .
 EXPOSE 5050
 
 CMD ["node", "src/server.js"]
+
